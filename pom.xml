@@ -18,17 +18,17 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
-    <scm>
+    <!-- <scm>
         <url>git@github.com:phatak-dev/java-sizeof.git</url>
         <connection>scm:git:git@github.com:phatak-dev/java-sizeof.git</connection>
-    </scm>
-    <developers>
+    </scm> -->
+    <!-- <developers>
         <developer>
             <id>phatak-dev</id>
             <name>Madhukara phatak</name>
             <url>http://www.madhukaraphatak.com</url>
         </developer>
-    </developers>
+    </developers> -->
     <dependencies>
         <dependency>
             <groupId>org.scala-lang</groupId>
