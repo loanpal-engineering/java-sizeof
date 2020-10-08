@@ -7,17 +7,17 @@
     <description>java-sizeof</description>
     <version>0.1</version>
     <name>java-sizeof</name>
-    <organization>
+    <!-- <organization>
         <name>com.madhukaraphatak</name>
     </organization>
-    <url>https://github.com/phatak-dev/java-sizeof</url>
-    <licenses>
+    <url>https://github.com/phatak-dev/java-sizeof</url> -->
+    <!-- <licenses>
         <license>
             <name>Apache 2.0</name>
             <url>https://github.com/phatak-dev/java-sizeof/blob/master/LICENSE.txt</url>
             <distribution>repo</distribution>
         </license>
-    </licenses>
+    </licenses> -->
     <!-- <scm>
         <url>git@github.com:phatak-dev/java-sizeof.git</url>
         <connection>scm:git:git@github.com:phatak-dev/java-sizeof.git</connection>
