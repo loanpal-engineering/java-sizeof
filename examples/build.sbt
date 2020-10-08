@@ -2,7 +2,7 @@ name := "java-sizeof-examples"
 
 organization:="com.madhukaraphatak"
 
-scalaVersion := "2.11.0"
+scalaVersion := "2.12.12"
 
 libraryDependencies += "com.madhukaraphatak" %% "java-sizeof" % "0.1"
 
