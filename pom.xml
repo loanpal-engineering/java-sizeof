@@ -7,28 +7,29 @@
     <description>java-sizeof</description>
     <version>0.1</version>
     <name>java-sizeof</name>
-    <!-- <organization>
+    <organization>
         <name>com.madhukaraphatak</name>
     </organization>
-    <url>https://github.com/phatak-dev/java-sizeof</url> -->
-    <!-- <licenses>
+    <url>https://github.com/phatak-dev/java-sizeof</url>
+    <licenses>
         <license>
             <name>Apache 2.0</name>
             <url>https://github.com/phatak-dev/java-sizeof/blob/master/LICENSE.txt</url>
             <distribution>repo</distribution>
         </license>
-    </licenses> -->
+    </licenses>
     <!-- <scm>
-        <url>git@github.com:phatak-dev/java-sizeof.git</url>
-        <connection>scm:git:git@github.com:phatak-dev/java-sizeof.git</connection>
+        <url>github.com/phatat-dev/java-sizeof</url>
+        <connection>scm:git:github.com/phatak-dev/java-sizeof</connection>
+        <developerConnection>scm:git:git@github.com:phatak-dev/java-sizeof</developerConnection>
     </scm> -->
-    <!-- <developers>
+    <developers>
         <developer>
             <id>phatak-dev</id>
             <name>Madhukara phatak</name>
             <url>http://www.madhukaraphatak.com</url>
         </developer>
-    </developers> -->
+    </developers>
     <dependencies>
         <dependency>
             <groupId>org.scala-lang</groupId>
